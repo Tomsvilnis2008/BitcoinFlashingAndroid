@@ -6,7 +6,7 @@ BITCOIN FLASHER,(for android)
 
 🐦(No max per transaction)🐦
 
-💰 Price:(80 usdt) 💰 
+💰 Price:(60 usdt) 💰 
 
 🔥The price can be negotiatable 🔥
 
@@ -20,3 +20,8 @@ Demo test: ❌ Not working ❌
 
 photo:
 ![Screenshot_2024-08-03-13-08-37-728_com my flashbtc](https://github.com/user-attachments/assets/80df889b-337a-4b8e-8104-e65165edbac4)
+NEW UPDATE V4
+🪲 bug fixes 🪲 
+⚡ FASTER FLASHING ⚡ 
+⚖️ More stable UI ⚖️ 
+✅ More wallet support! ✅ 
